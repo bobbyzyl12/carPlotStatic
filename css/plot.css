@@ -1,0 +1,495 @@
+html{
+  overflow-y: hidden;
+}
+
+img.park_img{
+  width:100%;
+}
+
+.parkPlot_box{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height:10px;
+}
+
+.parkPlot{
+  position: absolute;
+  margin:2px;
+  border:2px solid #999;
+  background-color: white;
+  color:#aaa;
+  text-align:center;
+}
+
+.vertical{
+  width:24px;
+  height:50px;
+  padding-top:15px;
+}
+
+.horizontal{
+  width:50px;
+  height:24px;
+}
+
+.plot1{
+  left:1240px;
+  top:350px;
+}
+
+.plot2{
+  left:1214px;
+  top:350px;
+}
+
+.plot3{
+  left:1184px;
+  top:350px;
+}
+
+.plot4{
+  left:1158px;
+  top:350px;
+}
+
+.plot5{
+  left:1126px;
+  top:350px;
+}
+
+.plot6{
+  left:1100px;
+  top:350px;
+}
+
+.plot7{
+  left:1074px;
+  top:350px;
+}
+
+.plot8{
+  left:1042px;
+  top:350px;
+}
+
+.plot9{
+  left:1016px;
+  top:350px;
+}
+
+.plot10{
+  left:990px;
+  top:350px;
+}
+
+.plot11{
+  left:1322px;
+  top:464px;
+}
+
+.plot12{
+  left:1296px;
+  top:464px;
+}
+
+.plot13{
+  left:1270px;
+  top:464px;
+}
+
+.plot14{
+  left:1240px;
+  top:464px;
+}
+
+.plot15{
+  left:1214px;
+  top:464px;
+}
+
+.plot16{
+  left:1184px;
+  top:464px;
+}
+
+.plot17{
+  left:1158px;
+  top:464px;
+}
+
+.plot18{
+  left:1126px;
+  top:464px;
+}
+
+.plot19{
+  left:1042px;
+  top:464px;
+}
+
+.plot20{
+  left:1016px;
+  top:464px;
+}
+
+.plot21{
+  left:990px;
+  top:464px;
+}
+
+.plot22{
+  left:974px;
+  top:192px;
+}
+
+.plot23{
+  left:974px;
+  top:218px;
+}
+
+.plot24{
+  left:974px;
+  top:244px;
+}
+
+.plot25{
+  left:942px;
+  top:60px;
+}
+
+.plot26{
+  left:906px;
+  top:60px;
+}
+
+.plot27{
+  left:856px;
+  top:136px;
+}
+
+.plot28{
+  left:856px;
+  top:162px;
+}
+
+.plot29{
+  left:856px;
+  top:192px;
+}
+
+.plot30{
+  left:882px;
+  top:234px;
+}
+
+.plot31{
+  left:856px;
+  top:234px;
+}
+
+.plot32{
+  left:830px;
+  top:234px;
+}
+
+.plot33{
+  left:800px;
+  top:234px;
+}
+
+.plot34{
+  left:774px;
+  top:234px;
+}
+
+.plot35{
+  left:716px;
+  top:234px;
+}
+
+.plot36{
+  left:690px;
+  top:234px;
+}
+
+.plot37{
+  left:664px;
+  top:234px;
+}
+
+.plot38{
+  left:634px;
+  top:234px;
+}
+
+.plot39{
+  left:608px;
+  top:234px;
+}
+
+.plot40{
+  left:582px;
+  top:234px;
+}
+
+.plot41{
+  left:582px;
+  top:200px;
+}
+
+.plot42{
+  left:580px;
+  top:70px;
+}
+
+.plot43{
+  left:554px;
+  top:70px;
+}
+
+.plot44{
+  left:364px;
+  top:70px;
+}
+
+.plot45{
+  left:326px;
+  top:70px;
+}
+
+.plot46{
+  left:416px;
+  top:174px;
+}
+
+.plot47{
+  left:442px;
+  top:174px;
+}
+
+.plot48{
+  left:468px;
+  top:174px;
+}
+
+.plot49{
+  left:504px;
+  top:174px;
+}
+
+.plot50{
+  left:504px;
+  top:234px;
+}
+
+.plot51{
+  left:468px;
+  top:234px;
+}
+
+.plot52{
+  left:442px;
+  top:234px;
+}
+
+.plot53{
+  left:416px;
+  top:234px;
+}
+
+.plot54{
+  left:226px;
+  top:242px;
+}
+
+.plot55{
+  left:200px;
+  top:242px;
+}
+
+.plot56{
+  left:164px;
+  top:242px;
+}
+
+.plot57{
+  left:138px;
+  top:242px;
+}
+
+.plot58{
+  left:112px;
+  top:242px;
+}
+
+.plot59{
+  left:84px;
+  top:242px;
+}
+
+.plot60{
+  left:58px;
+  top:242px;
+}
+
+.plot61{
+  left:32px;
+  top:242px;
+}
+
+.plot62{
+  left:882px;
+  top:360px;
+}
+
+.plot63{
+  left:856px;
+  top:360px;
+}
+
+.plot64{
+  left:830px;
+  top:360px;
+}
+
+.plot65{
+  left:800px;
+  top:360px;
+}
+
+.plot66{
+  left:774px;
+  top:360px;
+}
+
+.plot67{
+  left:748px;
+  top:360px;
+}
+
+.plot68{
+  left:716px;
+  top:360px;
+}
+
+.plot69{
+  left:690px;
+  top:360px;
+}
+
+.plot70{
+  left:664px;
+  top:360px;
+}
+
+.plot71{
+  left:634px;
+  top:360px;
+}
+
+.plot72{
+  left:608px;
+  top:360px;
+}
+
+.plot73{
+  left:582px;
+  top:360px;
+}
+
+.plot74{
+  left:556px;
+  top:360px;
+}
+
+.plot75{
+  left:530px;
+  top:360px;
+}
+
+.plot76{
+  left:504px;
+  top:360px;
+}
+
+
+.plot77{
+  left:468px;
+  top:360px;
+}
+
+.plot78{
+  left:442px;
+  top:360px;
+}
+
+.plot79{
+  left:416px;
+  top:360px;
+}
+
+.plot80{
+  left:388px;
+  top:360px;
+}
+
+.plot81{
+  left:362px;
+  top:360px;
+}
+
+.plot82{
+  left:338px;
+  top:360px;
+}
+
+.plot83{
+  left:306px;
+  top:360px;
+}
+
+.plot84{
+  left:280px;
+  top:360px;
+}
+
+.plot85{
+  left:252px;
+  top:360px;
+}
+.plot86{
+  left:226px;
+  top:360px;
+}
+.plot87{
+  left:200px;
+  top:360px;
+}
+
+.plot88{
+  left:164px;
+  top:360px;
+}
+.plot89{
+  left:138px;
+  top:360px;
+}
+.plot90{
+  left:112px;
+  top:360px;
+}
+
+.plot91{
+  left:84px;
+  top:360px;
+}
+.plot92{
+  left:58px;
+  top:360px;
+}
+.plot93{
+  left:32px;
+  top:360px;
+}

@@ -1,0 +1,132 @@
+/*黑色footer的整体定义*/
+.footer{
+  width: 100%;
+  padding-top: 10px;
+  text-align: center;
+  height:auto;
+  background-color: #202020;
+  border-top:2px solid #414141;
+  position:fixed;
+  bottom: 0px;
+}
+
+/*主要内容部分的容器*/
+.footer-wrapper{
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+/*最下版权部分的div*/
+.footer .copyright-box{
+	height:30px;
+	color:#aaa;
+	border-top:1px solid #aaa;
+	background-color:#444;
+  font-size: 12px;
+}
+
+/*980宽*/
+.footer-content{
+  width: 980px;
+  margin: 0 auto;
+  height:auto;
+  min-height:40px;
+  position:relative;
+}
+
+
+/*footer下方每一个block的设定*/
+.footer .blocks{
+  list-style: none;
+  margin: 0 auto;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.footer .blocks li{
+	float: left;
+  text-align: left;
+  list-style: none;
+	height:	140px;
+	padding-right: 15px;
+	padding-left: 15px;
+  line-height: 1;
+	border-left: solid 1px #333;
+  font-size: 14px;
+  position:realtive;
+}
+
+.footer .blocks li:first-child{
+	border-left: 0;
+  padding-left: 0!important;
+}
+
+/*每个block的小标题*/
+.footer .title-b{   /*小标题旁边装饰用的块*/
+	width:5px;
+	height:20px;
+	margin-top:15px;
+	background-color:#666;
+	border-radius:3px;
+	margin-left:10px;
+	float: left;
+}
+
+.footer .block-title{ /*小标题*/
+	color:#666;
+	font-size: 14px;
+	height:auto;
+}
+
+/*可能有的小的图标*/
+.footer .footer-logo-link{
+  height:28px;
+}
+
+.footer .pos1{
+	position: relative;
+  top: -90px;
+  right: -255px;
+}
+
+.footer .pos2{
+	position: relative;
+	top: -92px;
+	right: -270px;
+	height:25px;
+}
+
+/*每个链接所装的card的相关设置*/
+.footer .footer-card-box{
+	position:relative;
+	padding:15px 0px 0px 35px;
+}
+
+.footer .footer-card{
+	color:#ddd;
+	width:115px;
+	float:left;
+	height:30px;
+	}
+
+.footer .footer-card:hover{
+	color:#ff9100;
+}
+
+.footer .hl{    /*小的card*/
+	width:90px;
+	height:28px;
+}
+
+.footer-icons{
+  width:40px;
+	height:40px;
+}
+
+.footer-msg-box{
+  position:absolute;
+  height:40px;
+  font-size:18px;
+  color:#fff;
+
+}
